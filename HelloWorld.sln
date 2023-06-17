@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatType", "FloatType\Floa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse", "IfElse\IfElse.csproj", "{CF7174AA-B50D-4DD4-B80A-38D8E5EFAF99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseApply", "IfElseApply\IfElseApply.csproj", "{1D5F1BE0-01F3-4B3A-8A46-D371A1A2E942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElseMiniATM", "IfElseMiniATM\IfElseMiniATM.csproj", "{7A79CD45-D9D9-476D-BD0E-8954CD8942A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{CF7174AA-B50D-4DD4-B80A-38D8E5EFAF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF7174AA-B50D-4DD4-B80A-38D8E5EFAF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF7174AA-B50D-4DD4-B80A-38D8E5EFAF99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D5F1BE0-01F3-4B3A-8A46-D371A1A2E942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D5F1BE0-01F3-4B3A-8A46-D371A1A2E942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D5F1BE0-01F3-4B3A-8A46-D371A1A2E942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D5F1BE0-01F3-4B3A-8A46-D371A1A2E942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A79CD45-D9D9-476D-BD0E-8954CD8942A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A79CD45-D9D9-476D-BD0E-8954CD8942A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A79CD45-D9D9-476D-BD0E-8954CD8942A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A79CD45-D9D9-476D-BD0E-8954CD8942A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
