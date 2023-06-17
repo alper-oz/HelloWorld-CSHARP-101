@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Int", "Int\Int.csproj", "{A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongType", "LongType\LongType.csproj", "{DA3201C8-177C-4D06-8D67-388ECB69E01A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatType", "FloatType\FloatType.csproj", "{1D8662A2-1368-426C-8FBB-0BC5BDFCCF08}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DA3201C8-177C-4D06-8D67-388ECB69E01A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA3201C8-177C-4D06-8D67-388ECB69E01A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA3201C8-177C-4D06-8D67-388ECB69E01A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D8662A2-1368-426C-8FBB-0BC5BDFCCF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D8662A2-1368-426C-8FBB-0BC5BDFCCF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D8662A2-1368-426C-8FBB-0BC5BDFCCF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D8662A2-1368-426C-8FBB-0BC5BDFCCF08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
