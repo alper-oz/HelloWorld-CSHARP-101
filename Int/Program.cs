@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,11 +21,11 @@ namespace Int
             //1024 GB = 1 TB (terabyte)
             //1024 TB = 1 PB (petabyte)
 
-            int max = int.MaxValue;
-            int min = int.MinValue;
-            Console.WriteLine(max);
-            Console.WriteLine(min);
-            Console.ReadLine();
+            int max = int.MaxValue; //MaxValue properties'i ile int veri türünün alabileceği maksimum değeri istedik
+            int min = int.MinValue; //MinValue properties'i ile int veri türünün alabileceği minimum değeri istedik
+            Console.WriteLine(max); //max değişkenini ekrana yazdırmak üzere gönderdik
+            Console.WriteLine(min); //min değişkenini ekrana yazdırmak üzere gönderdik
+            Console.ReadLine(); //Debug bittiğinde siyah ekranın X ile kapatana kadar kapanmamasını sağlar, başka bir şekilde daha var ondan ilerde bahsedicem
         }
     }
 }
