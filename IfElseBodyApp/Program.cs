@@ -20,7 +20,7 @@ namespace IfElseBodyApp
             int kg = Convert.ToInt32(Console.ReadLine()); // kullanıcıdan -console readline- aldığımız kilo bilgisini int türüne convert ettik
 
             Console.WriteLine("Lütfen boyunuzu girin:");
-            double length = Convert.ToDouble(Console.ReadLine()); // kullanıcıdan double türünde aldığımız kilo bilgisini double'ye convert ettik. CW ile kullanıcıdan aldığımı veriler default olarak string türünde gelir. int ve double'de bu verileri Convert.ToInt32 ve ToDouble ile convert ettik.
+            double length = Convert.ToDouble(Console.ReadLine()); // kullanıcıdan double türünde aldığımız kilo bilgisini double'ye convert ettik. Console.Readline ile kullanıcıdan aldığımı veriler default olarak string türünde gelir. int ve double'de bu verileri Convert.ToInt32 ve ToDouble ile convert ettik.
 
             double endeks = kg / (length * length);
 
