@@ -11,6 +11,7 @@ namespace SwitchCase
     {
         static void Main(string[] args)
         {
+            // Normalde bu projeyi döngüler kullanarak hiç aç kapa yapmaya gerek kalmadan yapabilirdik. Döngüleri öğrendikten sonra burayı güncellerim :)
             //Switch Case ile Mini ATM uygulaması yapalım
             //1- Bakiye görüntüle
             //2- Para çek
