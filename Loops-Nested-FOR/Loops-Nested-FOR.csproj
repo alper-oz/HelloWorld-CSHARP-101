@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{BBB29BFD-6BCC-4981-A4AD-E4ADA80F3427}</ProjectGuid>
+    <ProjectGuid>{CD7C03D1-9B00-4F5C-B22F-7B63F147424D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Loops_FOR</RootNamespace>
-    <AssemblyName>Loops-FOR</AssemblyName>
+    <RootNamespace>Loops_Nested_FOR</RootNamespace>
+    <AssemblyName>Loops-Nested-FOR</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
