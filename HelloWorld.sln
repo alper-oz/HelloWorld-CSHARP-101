@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops-FOR", "Loops-FOR\Loop
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops-Nested-FOR", "Loops-Nested-FOR\Loops-Nested-FOR.csproj", "{CD7C03D1-9B00-4F5C-B22F-7B63F147424D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginApp-Exercise", "LoginApp-Exercise\LoginApp-Exercise.csproj", "{74E1FFD3-4287-4163-8A5C-F2AB4C66FB1C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{CD7C03D1-9B00-4F5C-B22F-7B63F147424D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7C03D1-9B00-4F5C-B22F-7B63F147424D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7C03D1-9B00-4F5C-B22F-7B63F147424D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E1FFD3-4287-4163-8A5C-F2AB4C66FB1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E1FFD3-4287-4163-8A5C-F2AB4C66FB1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E1FFD3-4287-4163-8A5C-F2AB4C66FB1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E1FFD3-4287-4163-8A5C-F2AB4C66FB1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
